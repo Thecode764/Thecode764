@@ -2,7 +2,7 @@
   <style>
     #thecodepng {
       text-align: center;
-    </style>
+   </style>
 </head>
 <h1 align="center">Welcome To My Profile (;</h1>
 <h3 style="font-family: 'Courier New', Courier, monospace;">THE BEST CODER IN GITHUB</h3>
