@@ -1,5 +1,5 @@
 <h1 align="center">Welcome To My Profile (;</h1>
-<h3 style="font-family: 'Courier New', Courier, monospace;">THE BEST CODER IN GITHUB</h3>
+<h3 style="font-family: 'Courier New', Courier, monospace;">THE BEST CODER IN GITHUB (;</h3>
 <h3 style="font-family: 'Courier New', Courier, monospace;">MY SUPPORT SERVER(PERSIAN): https://discord.gg/P73SFQvP</h3>
 
 <img src="https://i.postimg.cc/FhWxskhC/The-Coder.png?dl=1">
