@@ -1,5 +1,5 @@
 <h1 align="center">Welcome To My Profile (;</h1>
-![status](https://api.statusbadges.me/badge/status/1125429179685548112?style=plastic)
+<img src="https://api.statusbadges.me/badge/status/1125429179685548112?style=plastic">
 <h4  align="center" style="font-family: 'Courier New', Courier, monospace;">THE BEST CODER IN GITHUB (;</h3>
 <img src="./standard.gif">
 <br><br>
