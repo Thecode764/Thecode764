@@ -14,8 +14,6 @@ C(Completed 50%)
 
 JAVA (Learning)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Im+currently+working+on+Python-Web)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Im+Developer)](https://git.io/typing-svg)
 
 ### Languages And IDE
