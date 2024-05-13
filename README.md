@@ -1,14 +1,15 @@
 <h1 align="center">Artin karimi</h1>
 <h3 align="center">A developer</h3>
-👋 Hi, I’m Artin karimi
+**👋 Hi, I’m Artin karimi**
 
-👀 I’m interested in Web
 
-🌱 I’m currently learning **Django**
+**👀 I’m interested in Web**
 
-📫 How to reach me artin962354@proton.me
+**🌱 I’m currently learning Django**
 
-😄 Pronouns: Male
+**📫 How to reach me artin962354@proton.me**
+
+**😄 Pronouns: Male**
 <h3>Language and IDE</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql">
 <h3>Stats</h3>
