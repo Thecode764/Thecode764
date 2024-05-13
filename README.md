@@ -1,5 +1,6 @@
 <h1 align="center">Artin karimi</h1>
-<h3 align="center">A developer</h3>- 👋 Hi, I’m Artin karimi
+<h3 align="center">A developer</h3>
+- 👋 Hi, I’m Artin karimi
 
 - 👀 I’m interested in Web
 
