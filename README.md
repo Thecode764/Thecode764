@@ -20,4 +20,4 @@
 <h3>Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Thecode764&show_icons=true&theme=dracula">
 <h3>Most used languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecode764&size_weight=0.5&count_weight=0.5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecode764">
