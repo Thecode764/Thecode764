@@ -22,6 +22,6 @@
 <h3>Most used languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecode764&size_weight=0.5&count_weight=0.5">
 <h3>Followers</h3>
-<img src="https://thecode764.github.io/GetUserFollowers-Badge/?username=Thecode764/">
+<iframe src="https://thecode764.github.io/GetUserFollowers-Badge/?username=Thecode764/">
 
 Created with **Get user followers** Created by me
