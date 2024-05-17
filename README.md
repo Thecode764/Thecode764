@@ -24,5 +24,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thecode764/Thecode764/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thecode764/Thecode764/output/github-contribution-grid-snake.svg">
-  <img alt="Kian Ahmadian contribution" src="https://raw.githubusercontent.com/Thecode764/Thecode764/output/github-contribution-grid-snake.svg">
+  <img alt="Thecode764 contribution" src="https://raw.githubusercontent.com/Thecode764/Thecode764/output/github-contribution-grid-snake.svg">
 </picture>
