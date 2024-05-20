@@ -26,3 +26,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thecode764/Thecode764/output/github-contribution-grid-snake.svg">
   <img alt="Thecode764 contribution" src="https://raw.githubusercontent.com/Thecode764/Thecode764/output/github-contribution-grid-snake.svg">
 </picture>
+<a href="https://github.com/Thecode764"><img src="https://raw.githubusercontent.com/Thecode764/Thecode764/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
