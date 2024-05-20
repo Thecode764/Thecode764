@@ -26,4 +26,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thecode764/Thecode764/output/github-contribution-grid-snake.svg">
   <img alt="Thecode764 contribution" src="https://raw.githubusercontent.com/Thecode764/Thecode764/output/github-contribution-grid-snake.svg">
 </picture>
-<a href="https://github.com/Thecode764"><img src="https://raw.githubusercontent.com/Thecode764/Thecode764/main/profile-3d-contrib/profile-gitblock.svg" width=700></a></div>
+<h3>Others</h3>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThecode764%2F&count_bg=%23000&title_bg=%23171717&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false">
+<img src="https://img.shields.io/github/followers/Thecode764">
