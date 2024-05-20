@@ -2,7 +2,7 @@ name: GitHub Map 3D
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "30 3 * * *"
+    - cron: "0 * * *"
   workflow_dispatch:
 
 jobs:
