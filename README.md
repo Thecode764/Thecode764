@@ -8,7 +8,7 @@
 
 - ♾ I currently working on **NTN**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**, **React** and **Wordpress**
 
 - 📫 How to reach me artin962354@proton.me
 
