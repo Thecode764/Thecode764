@@ -32,5 +32,10 @@
 <h3>Discord activity</h3>
 <img src="https://api.statusbadges.me/badge/status/1125429179685548112">
 <h3>Blog posts</h3>
- <!-- BLOG-POST-LIST:START --> 
- <!-- BLOG-POST-LIST:END -->
+ <!-- BLOG-POST-LIST:START -->
+- [AI-Fetcher خزیدن در وب با پایتون](https://artinkarimi.hashnode.dev/ai-fetcher-khzidn-dr-ob-ba-paiton)
+- [AX Terminal ترمینال جدید](https://artinkarimi.hashnode.dev/ax-terminal-trminal-gdid)
+- [Beautiful linux پروژه اول](https://artinkarimi.hashnode.dev/beautiful-linux-prozhh-aol)
+- [Beautiful Linux: لینوکس مود شده؟](https://artinkarimi.hashnode.dev/beautiful-linux-linoks-mod-shdh)
+- [پارچ لینوکس: آرچ ایرانی؟](https://artinkarimi.hashnode.dev/what-is-parch-linux)
+<!-- BLOG-POST-LIST:END -->
