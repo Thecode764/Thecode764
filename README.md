@@ -29,3 +29,5 @@
 <h3>Others</h3>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThecode764%2F&count_bg=%23000&title_bg=%23171717&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false">
 <img src="https://img.shields.io/github/followers/Thecode764">
+<h3>Blog posts</h3>
+
