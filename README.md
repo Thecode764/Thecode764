@@ -31,6 +31,11 @@
 <img src="https://img.shields.io/github/followers/Thecode764">
 <h3>Discord activity</h3>
 <img src="https://api.statusbadges.me/badge/status/1125429179685548112">
+<h3 align="center">Wakatime</h3>
+     
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3>Blog posts</h3>
 
  <!-- BLOG-POST-LIST:START -->
