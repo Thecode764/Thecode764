@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/github/followers/Thecode764">
 <h3>Discord activity</h3>
 <img src="https://api.statusbadges.me/badge/status/1125429179685548112">
+<img src="https://lanyard.cnrad.dev/api/1125429179685548112">
 <h3>Wakatime</h3>
 
 <!--START_SECTION:waka-->
