@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Web development
 
-- ♾ I currently working on **NTN**
+- ♾ I currently working on **Open source projects**
 
 - 🌱 I’m currently learning **Django**, **React** and **Wordpress**
 
