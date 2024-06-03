@@ -34,6 +34,87 @@
 <img src="https://lanyard.cnrad.dev/api/1125429179685548112">
 <h3>Wakatime</h3>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2023%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 55.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 567 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 58 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                442 commits         █████████░░░░░░░░░░░░░░░░   35.88 % 
+🌆 Daytime                500 commits         ██████████░░░░░░░░░░░░░░░   40.58 % 
+🌃 Evening                290 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   313 commits         ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Tuesday                  284 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Wednesday                242 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Thursday                 80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Friday                   68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Saturday                 120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Sunday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tehran
+
+💬 Programming Languages: 
+HTML                     11 hrs 29 mins      ███████████░░░░░░░░░░░░░░   42.71 % 
+Markdown                 5 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+JavaScript               3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+TOML                     2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+CSS                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+
+🔥 Editors: 
+VS Code                  26 hrs 55 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+kita                     21 hrs 20 mins      ████████████████████░░░░░   79.24 % 
+Profile-page             1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Repo-Fetch               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+ntn                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+bot.space                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+
+💻 Operating System: 
+Linux                    26 hrs 55 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   30 repos            ████████████████░░░░░░░░░   62.50 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Thecode764/Thecode764/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/06/2024 18:43:16 UTC
 <!--END_SECTION:waka-->
 <h3>Blog posts</h3>
 
