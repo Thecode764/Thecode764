@@ -34,6 +34,7 @@
 <img src="https://lanyard.cnrad.dev/api/1125429179685548112">
 <h3>Wakatime</h3>
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
