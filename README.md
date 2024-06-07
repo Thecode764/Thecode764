@@ -118,3 +118,5 @@ Ruby                     2 repos             █░░░░░░░░░░�
  Last Updated on 03/06/2024 18:43:16 UTC
 <h3>Trophy</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=Thecode764&theme=dracula">
+
+<img src="https://streak-stats.demolab.com/?user=Thecode764&theme=dracula">
