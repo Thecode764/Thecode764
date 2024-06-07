@@ -116,13 +116,5 @@ Ruby                     2 repos             █░░░░░░░░░░�
 
 
  Last Updated on 03/06/2024 18:43:16 UTC
-<!--END_SECTION:waka-->
-<h3>Blog posts</h3>
-
- <!-- BLOG-POST-LIST:START -->
-- [Neofetch تمام شد!](https://artinkarimi.hashnode.dev/neofetch-tmam-shd)
-- [AI-Fetcher خزیدن در وب با پایتون](https://artinkarimi.hashnode.dev/ai-fetcher-khzidn-dr-ob-ba-paiton)
-- [AX Terminal ترمینال جدید](https://artinkarimi.hashnode.dev/ax-terminal-trminal-gdid)
-- [Beautiful linux پروژه اول](https://artinkarimi.hashnode.dev/beautiful-linux-prozhh-aol)
-- [Beautiful Linux: لینوکس مود شده؟](https://artinkarimi.hashnode.dev/beautiful-linux-linoks-mod-shdh)
-<!-- BLOG-POST-LIST:END -->
+<h3>Trophy</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=Thecode764&theme=dracula">
