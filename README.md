@@ -129,11 +129,11 @@ g
     .ossssssssssssssssssdMMMNysssso.       🗔 Desktop: Unity
    /ssssssssssshdmmNNmmyNMMMMhssssss/      ✨ Terminal: Gnome Terminal
   +ssssssssshmydMMMMMMMNddddyssssssss+     ⭐ Shell: Bash, zsh, fish
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    🔥  Unity version: Unity 7.7.0 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.                    
++sssshhhyNMMNyssssssssssssyNMMMysssssss+  
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   --------------------------------
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
 .ssssssssdMMMNhsssssssssshNMMMdssssssss.   
  /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    
