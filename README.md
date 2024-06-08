@@ -120,3 +120,26 @@ Ruby                     2 repos             █░░░░░░░░░░�
 <img src="https://github-profile-trophy.vercel.app/?username=Thecode764&theme=dracula">
 
 <img src="https://streak-stats.demolab.com/?user=Thecode764&theme=dracula">
+<h3>Linux</h3>
+```console
+            .-/+oossssoo+/-.               null@null 
+        `:+ssssssssssssssssss+:`           --------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: ASUS TUF Gaming F15 FX506HC_FX 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 6.8.0-31-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 18 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2951 (dpkg), 7 (flatpak),  
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.2.21 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1920x1080 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: Unity 7.7.0 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Compiz 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Yaru-dark 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Yaru-dark [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Yaru-purple-dark [GTK2/3] 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: 11th Gen Intel i5-11400H (12) @ 
+    .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA GeForce RTX 3050 Mobile 
+      -+sssssssssssssssssyyyssss+-         GPU: Intel TigerLake-H GT1 [UHD Grap 
+        `:+ssssssssssssssssss+:`           Memory: 3578MiB / 15730MiB 
+            .-/+oossssoo+/-.
+```
