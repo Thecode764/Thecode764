@@ -113,7 +113,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Thecode764/Thecode764/main/assets/bar_graph.png)
-
+g
 
  Last Updated on 03/06/2024 18:43:16 UTC
 <h3>Trophy</h3>
@@ -121,6 +121,7 @@ Ruby                     2 repos             █░░░░░░░░░░�
 
 <img src="https://streak-stats.demolab.com/?user=Thecode764&theme=dracula">
 <h3>Linux</h3>
+
 ```console
             .-/+oossssoo+/-.               null@null 
         `:+ssssssssssssssssss+:`           --------- 
