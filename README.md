@@ -125,10 +125,10 @@ g
 ```console
             .-/+oossssoo+/-.               👤 null@null 
         `:+ssssssssssssssssss+:`           --------- 
-      -+ssssssssssssssssssyyssss+-        
-    .ossssssssssssssssssdMMMNysssso.
-   /ssssssssssshdmmNNmmyNMMMMhssssss/
-  +ssssssssshmydMMMMMMMNddddyssssssss+
+      -+ssssssssssssssssssyyssss+-         📇 Name: Ubuntu
+    .ossssssssssssssssssdMMMNysssso.       🗔 Desktop: Unity
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      ✨ Terminal: Gnome Terminal
+  +ssssssssshmydMMMMMMMNddddyssssssss+     ⭐ Shell: Bash, zsh, fish
  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/
 .ssssssssdMMMNhsssssssssshNMMMdssssssss.
 +sssshhhyNMMNyssssssssssssyNMMMysssssss+
