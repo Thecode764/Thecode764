@@ -147,3 +147,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 
 <h3>Activity graph</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Thecode764&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true">
+<h3>Activity</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
