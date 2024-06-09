@@ -150,4 +150,9 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [📄 Version 3.0](https://github.com/Thecode764/kita/releases/tag/version-3.0) in [Thecode764/kita](https://github.com/Thecode764/kita)
+2. ❌ Closed PR [#75](https://github.com/Thecode764/kita/pull/75) in [Thecode764/kita](https://github.com/Thecode764/kita)
+3. 🔓 Reopened issue [#10](https://github.com/Thecode764/kita/issues/10) in [Thecode764/kita](https://github.com/Thecode764/kita)
+4. 🔒 Closed issue [#10](https://github.com/Thecode764/kita/issues/10) in [Thecode764/kita](https://github.com/Thecode764/kita)
+5. ❗ Opened issue [#2988](https://github.com/PyGithub/PyGithub/issues/2988) in [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
 <!--END_SECTION:activity-->
