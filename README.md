@@ -152,9 +152,9 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1#issuecomment-2158465742) in [utterance/utterances](https://github.com/utterance/utterances)
-2. 🎉 Merged PR [#2](https://github.com/Thecode764/Gitem/pull/2) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-3. 🎉 Merged PR [#1](https://github.com/Thecode764/Gitem/pull/1) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-4. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1#issuecomment-2157331979) in [utterance/utterances](https://github.com/utterance/utterances)
-5. 💪 Opened PR [#419](https://github.com/reactjs/fa.react.dev/pull/419) in [reactjs/fa.react.dev](https://github.com/reactjs/fa.react.dev)
+1. 💪 Opened PR [#1397](https://github.com/giscus/giscus/pull/1397) in [giscus/giscus](https://github.com/giscus/giscus)
+2. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1#issuecomment-2158465742) in [utterance/utterances](https://github.com/utterance/utterances)
+3. 🎉 Merged PR [#2](https://github.com/Thecode764/Gitem/pull/2) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
+4. 🎉 Merged PR [#1](https://github.com/Thecode764/Gitem/pull/1) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
+5. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1#issuecomment-2157331979) in [utterance/utterances](https://github.com/utterance/utterances)
 <!--END_SECTION:activity-->
