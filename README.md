@@ -152,9 +152,9 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1397](https://github.com/giscus/giscus/pull/1397) in [giscus/giscus](https://github.com/giscus/giscus)
-2. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1#issuecomment-2158465742) in [utterance/utterances](https://github.com/utterance/utterances)
-3. 🎉 Merged PR [#2](https://github.com/Thecode764/Gitem/pull/2) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-4. 🎉 Merged PR [#1](https://github.com/Thecode764/Gitem/pull/1) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-5. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1#issuecomment-2157331979) in [utterance/utterances](https://github.com/utterance/utterances)
+1. 🗣 Commented on [#42](https://github.com/billythegoat356/pystyle/pull/42#issuecomment-2165619817) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+2. 💪 Opened PR [#42](https://github.com/billythegoat356/pystyle/pull/42) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+3. 💪 Opened PR [#1397](https://github.com/giscus/giscus/pull/1397) in [giscus/giscus](https://github.com/giscus/giscus)
+4. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1#issuecomment-2158465742) in [utterance/utterances](https://github.com/utterance/utterances)
+5. 🎉 Merged PR [#2](https://github.com/Thecode764/Gitem/pull/2) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
 <!--END_SECTION:activity-->
