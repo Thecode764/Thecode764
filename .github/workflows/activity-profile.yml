@@ -30,6 +30,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git pull
           git config --global user.name "Artin karimi"
           git config --global user.email "artin962354@proton.me"
           git add .
