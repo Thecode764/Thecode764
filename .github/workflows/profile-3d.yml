@@ -15,3 +15,5 @@ jobs:
         uses: actions/checkout@v4
       - name: Update with about me
         run: pip3 install requests; python3 generate_image.py
+      - name: Push
+        run: git config --global user.name "Github actions"; git config --global user.email "actions@github.com"; git add .; git commit -m "Update svg"; git push
