@@ -152,11 +152,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#80](https://github.com/yoshi389111/github-profile-3d-contrib/issues/80) in [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-2. 🎉 Merged PR [#3](https://github.com/Thecode764/Gitem/pull/3) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-3. ❗ Opened issue [#506](https://github.com/anmol098/waka-readme-stats/issues/506) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. ❗ Opened issue [#43](https://github.com/billythegoat356/pystyle/issues/43) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
-5. 🗣 Commented on [#42](https://github.com/billythegoat356/pystyle/pull/42#issuecomment-2165619817) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+1. 🔒 Closed issue [#43](https://github.com/billythegoat356/pystyle/issues/43) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+2. 🗣 Commented on [#44](https://github.com/billythegoat356/pystyle/pull/44#issuecomment-2168127498) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+3. 💪 Opened PR [#44](https://github.com/billythegoat356/pystyle/pull/44) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+4. ❗ Opened issue [#80](https://github.com/yoshi389111/github-profile-3d-contrib/issues/80) in [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+5. 🎉 Merged PR [#3](https://github.com/Thecode764/Gitem/pull/3) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
 <!--END_SECTION:activity-->
 
 
