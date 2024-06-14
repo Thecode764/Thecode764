@@ -2,7 +2,7 @@
 
 import requests
 import json
-def get_stock_data():
+def push():
     url = "https://api.github.com/users/Thecode764"
     response = requests.get(url)
      
@@ -25,3 +25,4 @@ def get_stock_data():
 """)
     else:
         print("Rate limited")
+push()
