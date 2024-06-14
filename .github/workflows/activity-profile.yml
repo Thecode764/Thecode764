@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --global user.name "Github actions"
           git config --global user.email "actions@github.com"
-          git add.
+          git add .
           git commit -m "Update svg"
           git push
