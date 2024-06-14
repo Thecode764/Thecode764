@@ -158,3 +158,6 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 4. ❗ Opened issue [#43](https://github.com/billythegoat356/pystyle/issues/43) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
 5. 🗣 Commented on [#42](https://github.com/billythegoat356/pystyle/pull/42#issuecomment-2165619817) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
 <!--END_SECTION:activity-->
+
+
+<img src="./stats.svg">
