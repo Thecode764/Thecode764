@@ -76,11 +76,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_pwa: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: thecode764.github.io
           plugin_people: yes
           plugin_people_identicons: yes
           plugin_people_identicons_hide: yes
