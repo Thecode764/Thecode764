@@ -161,3 +161,5 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 
 
 <img src="./stats.svg">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thecode764&theme=dark">
