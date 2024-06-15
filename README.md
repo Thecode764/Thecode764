@@ -169,3 +169,6 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <img src="https://profile-counter.glitch.me/Thecode764/count.svg">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Thecode764&theme=dracula">
+
+## Metrics
+![Matrics](github-metrics.svg)
