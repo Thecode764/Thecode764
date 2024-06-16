@@ -1,11 +1,10 @@
 
-
 import requests
 import json
 def push():
     url = "https://api.github.com/users/Thecode764"
     response = requests.get(url)
-     
+
     if response.status_code == 200:
         data = response.json()
         followers = data['followers']
