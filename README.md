@@ -173,5 +173,3 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 ## Metrics
 ![Matrics](github-metrics.svg)
 
-
-![Level](./level.svg)
