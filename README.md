@@ -152,11 +152,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/billythegoat356/pystyle/pull/44#issuecomment-2172305512) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
-2. 🔒 Closed issue [#3581](https://github.com/searxng/searxng/issues/3581) in [searxng/searxng](https://github.com/searxng/searxng)
-3. 🗣 Commented on [#3581](https://github.com/searxng/searxng/issues/3581#issuecomment-2171049356) in [searxng/searxng](https://github.com/searxng/searxng)
-4. ❗ Opened issue [#3581](https://github.com/searxng/searxng/issues/3581) in [searxng/searxng](https://github.com/searxng/searxng)
-5. ❌ Closed PR [#1](https://github.com/Thecode764/Thecode764/pull/1) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+1. 🎉 Merged PR [#4](https://github.com/Thecode764/Gitem/pull/4) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
+2. 🗣 Commented on [#44](https://github.com/billythegoat356/pystyle/pull/44#issuecomment-2172305512) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+3. 🔒 Closed issue [#3581](https://github.com/searxng/searxng/issues/3581) in [searxng/searxng](https://github.com/searxng/searxng)
+4. 🗣 Commented on [#3581](https://github.com/searxng/searxng/issues/3581#issuecomment-2171049356) in [searxng/searxng](https://github.com/searxng/searxng)
+5. ❗ Opened issue [#3581](https://github.com/searxng/searxng/issues/3581) in [searxng/searxng](https://github.com/searxng/searxng)
 <!--END_SECTION:activity-->
 
 
