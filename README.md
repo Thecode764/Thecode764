@@ -173,3 +173,5 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 ## Metrics
 ![Matrics](github-metrics.svg)
 
+## Profile views (number 3 😂)
+![Profile views](https://komarev.com/ghpvc/?username=Thecode764)
