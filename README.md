@@ -1,3 +1,4 @@
+
 <h1 align="center">Artin karimi</h1>
 <h3 align="center">A developer</h3>
 
@@ -15,6 +16,12 @@
 - 😄 Pronouns: Male
 
 - 😎 Fun fact: For make a website terminal you can use jquery.terminal
+
+- 📁 I created 70 Repository
+
+- 👤 My follower number is 31
+
+- 👤 I following 73 users
 <h3>Language and IDE and Socials</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
 <h3>Stats</h3>
