@@ -194,8 +194,12 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 ## Metrics
 ![Matrics](github-metrics.svg)
 
-## Profile views (number 3 😂)
+## Profile views (number 4 😂)
 ![Profile views](https://komarev.com/ghpvc/?username=Thecode764)
+## Code berg acc
+@Thecode764
+
+For other projects mirror (empty for now)
 """)
     else:
         print("Rate limited")
