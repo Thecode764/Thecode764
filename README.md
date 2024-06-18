@@ -17,7 +17,7 @@
 
 - 😎 Fun fact: For make a website terminal you can use jquery.terminal
 
-- 📁 I created 70 Repository
+- 📁 I created 71 Repository
 
 - 👤 My follower number is 31
 
@@ -159,11 +159,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42547](https://github.com/electron/electron/issues/42547) in [electron/electron](https://github.com/electron/electron)
-2. 🗣 Commented on [#4](https://github.com/Thecode764/Gitem/pull/4#issuecomment-2173125603) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-3. 🎉 Merged PR [#4](https://github.com/Thecode764/Gitem/pull/4) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-4. 🗣 Commented on [#44](https://github.com/billythegoat356/pystyle/pull/44#issuecomment-2172305512) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
-5. 🔒 Closed issue [#3581](https://github.com/searxng/searxng/issues/3581) in [searxng/searxng](https://github.com/searxng/searxng)
+1. 🗣 Commented on [#4](https://github.com/Thecode764/Gitem/pull/4#issuecomment-2173125603) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
+2. 🎉 Merged PR [#4](https://github.com/Thecode764/Gitem/pull/4) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
+3. 🗣 Commented on [#44](https://github.com/billythegoat356/pystyle/pull/44#issuecomment-2172305512) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+4. 🔒 Closed issue [#3581](https://github.com/searxng/searxng/issues/3581) in [searxng/searxng](https://github.com/searxng/searxng)
+5. 🗣 Commented on [#3581](https://github.com/searxng/searxng/issues/3581#issuecomment-2171049356) in [searxng/searxng](https://github.com/searxng/searxng)
 <!--END_SECTION:activity-->
 
 
