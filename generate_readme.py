@@ -200,6 +200,8 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 @Thecode764
 
 For other projects mirror (empty for now)
+## Hmmmm
+![Stats](https://github-widgetbox.vercel.app/api/profile?username=Thecode764&data=followers,repositories,stars,commits&theme=dracula)
 """)
     else:
         print("Rate limited")
