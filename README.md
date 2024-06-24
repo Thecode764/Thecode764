@@ -21,7 +21,7 @@
 
 - 👤 My follower number is 39
 
-- 👤 I following 86 users
+- 👤 I following 85 users
 <h3>Language and IDE and Socials</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
 <h3>Stats</h3>
@@ -159,11 +159,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4575](https://github.com/microsoft/monaco-editor/issues/4575) in [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
-2. 🎉 Merged PR [#1](https://github.com/Thecode764/Github-message-generator/pull/1) in [Thecode764/Github-message-generator](https://github.com/Thecode764/Github-message-generator)
-3. 🎉 Merged PR [#5](https://github.com/Thecode764/Gitem/pull/5) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-4. ❗ Opened issue [#30751](https://github.com/mastodon/mastodon/issues/30751) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-5. 🔒 Closed issue [#42547](https://github.com/electron/electron/issues/42547) in [electron/electron](https://github.com/electron/electron)
+1. 🗣 Commented on [#4](https://github.com/Thecode764/Gitem/pull/4#issuecomment-2173125603) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
+2. 🎉 Merged PR [#4](https://github.com/Thecode764/Gitem/pull/4) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
+3. 🗣 Commented on [#44](https://github.com/billythegoat356/pystyle/pull/44#issuecomment-2172305512) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
+4. 🔒 Closed issue [#3581](https://github.com/searxng/searxng/issues/3581) in [searxng/searxng](https://github.com/searxng/searxng)
+5. 🗣 Commented on [#3581](https://github.com/searxng/searxng/issues/3581#issuecomment-2171049356) in [searxng/searxng](https://github.com/searxng/searxng)
 <!--END_SECTION:activity-->
 
 
