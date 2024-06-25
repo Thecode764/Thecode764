@@ -2,20 +2,16 @@ import requests
 
 def push():
     github_url = "https://api.github.com/users/Thecode764"
-    wakatime_url = "https://wakatime.com/api/v1/users/@Thecode764"
 
     try:
         github_response = requests.get(github_url)
-        wakatime_response = requests.get(wakatime_url)
 
-        if github_response.status_code == 200 and wakatime_response.status_code == 200:
+        if github_response.status_code == 200:
             github_data = github_response.json()
-            wakatime_data = wakatime_response.json()
 
             followers = github_data['followers']
             following = github_data['following']
             public_repos = github_data['public_repos']
-            wakatime_display_name = wakatime_data['display_name']
 
             file_path = "README.md"
             with open(file_path, "a") as file:
@@ -209,10 +205,6 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 For other projects mirror (empty for now)
 ## Hmmmm
 ![Stats](https://github-widgetbox.vercel.app/api/profile?username=Thecode764&data=followers,repositories,stars,commits&theme=dracula)
-## Wakatime
-|  ![Name](./wakatime/name.svg) Wakatime username  |
-|---|---|---|---|---|
-| {display_name} |
 """)
 
         else:
