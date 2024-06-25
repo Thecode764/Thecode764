@@ -34,5 +34,5 @@ jobs:
           git config --global user.name "Github actions"
           git config --global user.email "actions@github.com"
           git add .
-          git commit -m "Update svg"
+          git commit -m "🍱 [profile-followers-and-following-svg]: Update svg!"
           git push
