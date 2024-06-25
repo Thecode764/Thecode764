@@ -184,7 +184,7 @@ For other projects mirror (empty for now)
 ## Hmmmm
 ![Stats](https://github-widgetbox.vercel.app/api/profile?username=Thecode764&data=followers,repositories,stars,commits&theme=dracula)
 
-<h1 align="center">This repo is genrated with ❤ by me. and the widges and others powered by github-readme-stats, github-wakatime, Github metrics, Github map-3d, github profile trophy and others ...</h1>
+<h4 align="center">This repo is genrated with ❤ by me. and the widgets and others powered by github-readme-stats, github-wakatime, Github metrics, Github map-3d, github profile trophy and others ...</h4>
 
 <p align="center">
      <img src="https://img.shields.io/github/commit-activity/t/Thecode764/Thecode764/main">
