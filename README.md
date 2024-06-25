@@ -154,11 +154,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4575](https://github.com/microsoft/monaco-editor/issues/4575) in [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
-2. 🎉 Merged PR [#1](https://github.com/Thecode764/Github-message-generator/pull/1) in [Thecode764/Github-message-generator](https://github.com/Thecode764/Github-message-generator)
-3. 🎉 Merged PR [#5](https://github.com/Thecode764/Gitem/pull/5) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-4. ❗ Opened issue [#30751](https://github.com/mastodon/mastodon/issues/30751) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-5. 🔒 Closed issue [#42547](https://github.com/electron/electron/issues/42547) in [electron/electron](https://github.com/electron/electron)
+1. 🚀 Published release [Version 0.1](https://github.com/Thecode764/github-profile-3d-contrib/releases/tag/version-0.1) in [Thecode764/github-profile-3d-contrib](https://github.com/Thecode764/github-profile-3d-contrib)
+2. 🎉 Merged PR [#3](https://github.com/Thecode764/github-profile-3d-contrib/pull/3) in [Thecode764/github-profile-3d-contrib](https://github.com/Thecode764/github-profile-3d-contrib)
+3. 🎉 Merged PR [#2](https://github.com/Thecode764/github-profile-3d-contrib/pull/2) in [Thecode764/github-profile-3d-contrib](https://github.com/Thecode764/github-profile-3d-contrib)
+4. 🎉 Merged PR [#1](https://github.com/Thecode764/github-profile-3d-contrib/pull/1) in [Thecode764/github-profile-3d-contrib](https://github.com/Thecode764/github-profile-3d-contrib)
+5. ❗ Opened issue [#4575](https://github.com/microsoft/monaco-editor/issues/4575) in [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
 <!--END_SECTION:activity-->
 
 
