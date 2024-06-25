@@ -1,22 +1,25 @@
-
-
 import requests
-import json
+
 def push():
-    url = "https://api.github.com/users/Thecode764"
+    github_url = "https://api.github.com/users/Thecode764"
     wakatime_url = "https://wakatime.com/api/v1/users/@Thecode764"
-    wakatime_response = requests.get(wakatime_url)
-    response = requests.get(url)
-     
-    if response.status_code and wakatime_response.status_code == 200:
-        data = response.json()
-        wakatime = wakatime_response.json()
-        followers = data['followers']
-        following = data['following']
-        public_repos = data['public_repos']
-        wakatime_display_name = wakatime['display_name']
-        file = open("README.md", "w+")
-        file.write(f"""
+
+    try:
+        github_response = requests.get(github_url)
+        wakatime_response = requests.get(wakatime_url)
+
+        if github_response.status_code == 200 and wakatime_response.status_code == 200:
+            github_data = github_response.json()
+            wakatime_data = wakatime_response.json()
+
+            followers = github_data['followers']
+            following = github_data['following']
+            public_repos = github_data['public_repos']
+            wakatime_display_name = wakatime_data['display_name']
+
+            file_path = "README.md"
+            with open(file_path, "a") as file:
+                file.write(f"""
 <h1 align="center">Artin karimi</h1>
 <h3 align="center">A developer</h3>
 
@@ -35,11 +38,11 @@ def push():
 
 - 😎 Fun fact: For make a website terminal you can use jquery.terminal
 
-- 📁 I created {public_repos} Repository
+- 📁 I created 77 Repository
 
-- 👤 My follower number is {followers}
+- 👤 My follower number is 39
 
-- 👤 I following {following} users
+- 👤 I following 85 users
 <h3>Language and IDE and Socials</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
 <h3>Stats</h3>
@@ -177,11 +180,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Thecode764/Gitem/pull/4#issuecomment-2173125603) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-2. 🎉 Merged PR [#4](https://github.com/Thecode764/Gitem/pull/4) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
-3. 🗣 Commented on [#44](https://github.com/billythegoat356/pystyle/pull/44#issuecomment-2172305512) in [billythegoat356/pystyle](https://github.com/billythegoat356/pystyle)
-4. 🔒 Closed issue [#3581](https://github.com/searxng/searxng/issues/3581) in [searxng/searxng](https://github.com/searxng/searxng)
-5. 🗣 Commented on [#3581](https://github.com/searxng/searxng/issues/3581#issuecomment-2171049356) in [searxng/searxng](https://github.com/searxng/searxng)
+1. ❗ Opened issue [#4575](https://github.com/microsoft/monaco-editor/issues/4575) in [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
+2. 🎉 Merged PR [#1](https://github.com/Thecode764/Github-message-generator/pull/1) in [Thecode764/Github-message-generator](https://github.com/Thecode764/Github-message-generator)
+3. 🎉 Merged PR [#5](https://github.com/Thecode764/Gitem/pull/5) in [Thecode764/Gitem](https://github.com/Thecode764/Gitem)
+4. ❗ Opened issue [#30751](https://github.com/mastodon/mastodon/issues/30751) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+5. 🔒 Closed issue [#42547](https://github.com/electron/electron/issues/42547) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
 
 
@@ -206,11 +209,12 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 For other projects mirror (empty for now)
 ## Hmmmm
 ![Stats](https://github-widgetbox.vercel.app/api/profile?username=Thecode764&data=followers,repositories,stars,commits&theme=dracula)
-## Wakatime 
-| Wakatime user name |
-|--|
-| {display_name} |
 """)
-    else:
-        print("Rate limited")
+
+        else:
+            print("One or both requests failed.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+
 push()
+
