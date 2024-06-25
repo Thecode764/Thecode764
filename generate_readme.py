@@ -209,6 +209,10 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 For other projects mirror (empty for now)
 ## Hmmmm
 ![Stats](https://github-widgetbox.vercel.app/api/profile?username=Thecode764&data=followers,repositories,stars,commits&theme=dracula)
+## Wakatime
+|  ![Name](./wakatime/name.svg) Wakatime username  |
+|---|---|---|---|---|
+| {display_name}
 """)
 
         else:
