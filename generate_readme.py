@@ -4,13 +4,17 @@ import requests
 import json
 def push():
     url = "https://api.github.com/users/Thecode764"
+    wakatime_url = "https://wakatime.com/api/v1/users/@Thecode764"
+    wakatime_response = requests.get(wakatime_url)
     response = requests.get(url)
      
-    if response.status_code == 200:
+    if response.status_code and wakatime_response.status_code == 200:
         data = response.json()
+        wakatime = wakatime_response.json()
         followers = data['followers']
         following = data['following']
         public_repos = data['public_repos']
+        wakatime_display_name = wakatime['display_name']
         file = open("README.md", "w+")
         file.write(f"""
 <h1 align="center">Artin karimi</h1>
@@ -202,6 +206,10 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 For other projects mirror (empty for now)
 ## Hmmmm
 ![Stats](https://github-widgetbox.vercel.app/api/profile?username=Thecode764&data=followers,repositories,stars,commits&theme=dracula)
+## Wakatime 
+| Wakatime user name |
+|--|
+| {display_name} |
 """)
     else:
         print("Rate limited")
