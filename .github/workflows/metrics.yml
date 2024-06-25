@@ -34,7 +34,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          commits_authoring: 
+          commits_authoring: Thecode764
           config_octicon: yes
           config_timezone: Asia/Tehran
           config_twemoji: yes
@@ -152,7 +152,7 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+          plugin_wakatime_user: Thecode7664
           repositories_batch: 900
           repositories_forks: yes
-          users_ignored:
+          users_ignored: false
