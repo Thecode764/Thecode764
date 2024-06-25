@@ -212,7 +212,7 @@ For other projects mirror (empty for now)
 ## Wakatime
 |  ![Name](./wakatime/name.svg) Wakatime username  |
 |---|---|---|---|---|
-| {display_name}
+| {display_name} |
 """)
 
         else:
