@@ -2,7 +2,7 @@ name: GitHub Map 3D
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "30 * * * *"
+    - cron: "30 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,5 +20,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "🍱 [github-profile-3d-contrib]: File generated!"
+          git commit -m "generated"
           git push
