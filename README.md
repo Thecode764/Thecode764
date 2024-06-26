@@ -154,11 +154,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Thecode764/Thecode764/pull/3) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-2. 💪 Opened PR [#3](https://github.com/Thecode764/Thecode764/pull/3) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-3. 🎉 Merged PR [#2](https://github.com/Thecode764/Thecode764/pull/2) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-4. 💪 Opened PR [#2](https://github.com/Thecode764/Thecode764/pull/2) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-5. 🚀 Published release [Version 0.2](https://github.com/Thecode764/github-profile-3d-contrib/releases/tag/version-0.2) in [Thecode764/github-profile-3d-contrib](https://github.com/Thecode764/github-profile-3d-contrib)
+1. 🎉 Merged PR [#5](https://github.com/Thecode764/Thecode764/pull/5) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+2. 💪 Opened PR [#5](https://github.com/Thecode764/Thecode764/pull/5) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+3. 🎉 Merged PR [#4](https://github.com/Thecode764/Thecode764/pull/4) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+4. 💪 Opened PR [#4](https://github.com/Thecode764/Thecode764/pull/4) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+5. 🎉 Merged PR [#3](https://github.com/Thecode764/Thecode764/pull/3) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
 <!--END_SECTION:activity-->
 
 
