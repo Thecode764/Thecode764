@@ -1,7 +1,7 @@
 name: Generate-GitHub-Profile-3D-Contrib
 on:
   schedule:
-    - cron: '0 * * * *' # Example schedule, adjust as needed
+    - cron: '*/200 * * * *'
 
 jobs:
   build:
