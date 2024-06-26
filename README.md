@@ -9,7 +9,7 @@
 
 - ♾ I currently working on **Open source projects**
 
-- 🌱 I’m currently learning **Django**, **React** and **Wordpress**
+- 🌱 I’m currently learning **Django**, **React**, **Wordpress**, **Htmx**, **Hyperscript** and **Fastapi**
 
 - 📫 How to reach me artin962354@proton.me
 
