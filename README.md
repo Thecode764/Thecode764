@@ -189,3 +189,5 @@ For other projects mirror (empty for now)
 <p align="center">
      <img src="https://img.shields.io/github/commit-activity/t/Thecode764/Thecode764/main">
 </p>
+
+<h4 align="center">If you like my personal profile readme give me a ⭐ at  [Here](https://github.com/Thecode764/Thecode764) </h4>
