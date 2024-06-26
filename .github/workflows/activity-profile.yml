@@ -36,4 +36,25 @@ jobs:
           git add .
           git commit -m "🍱 [profile-followers-and-following-svg]: Update svg!"
       - name: Create Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Update report
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: ${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          branch: example-patches
+          delete-branch: true
+          title: 'Update the svg'
+          body: |
+            Updated the svg
+
+          labels: |
+            svg
+            autoupdate
+            update
+          assignees: Thecode764
+          reviewers: Thecode764
+          milestone: 1
+          draft: false
