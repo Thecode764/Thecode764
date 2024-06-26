@@ -35,4 +35,5 @@ jobs:
           git config --global user.email "actions@github.com"
           git add .
           git commit -m "🍱 [profile-followers-and-following-svg]: Update svg!"
-          git push
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
