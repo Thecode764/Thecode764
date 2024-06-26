@@ -18,6 +18,6 @@ jobs:
         run: |
           git config user.name "Github actions"
           git config user.email "actions@github.com"
-          git add.
+          git add .
           git commit -m "generated"
           git push
