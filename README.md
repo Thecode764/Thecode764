@@ -154,11 +154,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Thecode764/Thecode764/pull/25) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-2. 💪 Opened PR [#25](https://github.com/Thecode764/Thecode764/pull/25) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-3. ❗ Opened issue [#2255](https://github.com/marko-js/marko/issues/2255) in [marko-js/marko](https://github.com/marko-js/marko)
-4. 🎉 Merged PR [#24](https://github.com/Thecode764/Thecode764/pull/24) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-5. 💪 Opened PR [#24](https://github.com/Thecode764/Thecode764/pull/24) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+1. 🔒 Closed issue [#4575](https://github.com/microsoft/monaco-editor/issues/4575) in [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor)
+2. 🔒 Closed issue [#80](https://github.com/yoshi389111/github-profile-3d-contrib/issues/80) in [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+3. ❌ Closed PR [#1755](https://github.com/carloscuesta/gitmoji/pull/1755) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+4. 🔒 Closed issue [#506](https://github.com/anmol098/waka-readme-stats/issues/506) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. 🗣 Commented on [#506](https://github.com/anmol098/waka-readme-stats/issues/506#issuecomment-2195178581) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 
