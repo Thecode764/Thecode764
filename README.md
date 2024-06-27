@@ -154,11 +154,11 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   🚧 Projects: See my profile
 <h3>Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Thecode764/Thecode764/pull/24) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-2. 💪 Opened PR [#24](https://github.com/Thecode764/Thecode764/pull/24) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-3. 🎉 Merged PR [#23](https://github.com/Thecode764/Thecode764/pull/23) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-4. 💪 Opened PR [#23](https://github.com/Thecode764/Thecode764/pull/23) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
-5. 🎉 Merged PR [#22](https://github.com/Thecode764/Thecode764/pull/22) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+1. ❗ Opened issue [#2255](https://github.com/marko-js/marko/issues/2255) in [marko-js/marko](https://github.com/marko-js/marko)
+2. 🎉 Merged PR [#24](https://github.com/Thecode764/Thecode764/pull/24) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+3. 💪 Opened PR [#24](https://github.com/Thecode764/Thecode764/pull/24) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+4. 🎉 Merged PR [#23](https://github.com/Thecode764/Thecode764/pull/23) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
+5. 💪 Opened PR [#23](https://github.com/Thecode764/Thecode764/pull/23) in [Thecode764/Thecode764](https://github.com/Thecode764/Thecode764)
 <!--END_SECTION:activity-->
 
 
