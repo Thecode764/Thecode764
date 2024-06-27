@@ -192,6 +192,3 @@ For other projects mirror (empty for now)
 
 <h4 align="center">If you like my personal profile readme give me a ⭐ at  <a href="https://github.com/Thecode764/Thecode764">Here</a> </h4>
 
-<h4 align="center">Summary</h4>
-
-![Image](https://cr-summary-widget.azurewebsites.net/api/api?username=Thecode764)
