@@ -37,6 +37,7 @@ jobs:
           commits_authoring: Thecode764
           config_octicon: yes
           config_timezone: Asia/Tehran
+          committer_message: "🍱 [metrics]: Update metrics!"
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
