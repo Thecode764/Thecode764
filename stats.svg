@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><rect width="180" height="180" x="10" y="10" fill="#000" rx="10" ry="10"/><text x="19" y="28" fill="#fff" font-family="monospace" font-size="15">Thecode764</text><text x="19" y="50" fill="#fff" font-family="monospace" font-size="10">Followers: 40</text><text x="19" y="78" fill="#fff" font-family="monospace" font-size="10">Following: 99</text><text x="19" y="109" fill="#fff" font-family="monospace" font-size="10">Public repositories: 83</text></svg>
+
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <rect x="10" y="10" width="180" height="180" rx="10" ry="10" fill="black" />
+
+    <text x="19" y="28" font-size="15px" font-family="monospace" fill="white">Thecode764</text>
+    <text x="19" y="50" font-size="10px" font-family="monospace" fill="white">Followers:                                41</text>
+    <text x="19" y="78" font-size="10px" font-family="monospace" fill="white">Following:     102</text>
+    <text x="19" y="109" font-size="10px" font-family="monospace" fill="white">Public repositories:     83</text>
+</svg>
+
